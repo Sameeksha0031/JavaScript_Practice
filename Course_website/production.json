@@ -1,0 +1,68 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "field":{
+                "title":"Python Programming Mastercourse",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/python_img.png"}}}
+            }
+        },
+        {
+            "sys":{"id":2},
+            "field":{
+                "title":"C++ Mastercourse",
+                "price":110.99,
+                "image":{"fields":{"file":{"url":"images/c_plus_plus.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "field":{
+                "title":"Web Development for Beginners",
+                "price":99.99,
+                "image":{"fields":{"file":{"url":"images/web_one.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "field":{
+                "title":"Java Programming Mastercourse",
+                "price":149.99,
+                "image":{"fields":{"file":{"url":"images/java_image.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "field":{
+                "title":"Digital MArketing full course",
+                "price":109.99,
+                "image":{"fields":{"file":{"url":"images/digital_img.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "field":{
+                "title":"Advance Web development",
+                "price":199.99,
+                "image":{"fields":{"file":{"url":"images/web_two.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "field":{
+                "title":"Data Structure and Algorithms Full Course",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/data_img.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"78"},
+            "field":{
+                "title":"Data Science Full Course",
+                "price":156.99,
+                "image":{"fields":{"file":{"url":"images/dataTwo_img.jpg"}}}
+            }
+        }
+    ]
+}
